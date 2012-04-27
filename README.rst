@@ -2,6 +2,7 @@ termy - Simple CLI Builder Inspired by flask-script
 ===================================================
 
 Goals:
+
 - Provide a simple way to create command line interfaces
 - Provide simple command routing (think flask but for CLI's)
 - Provide a simple way to handle configuration
